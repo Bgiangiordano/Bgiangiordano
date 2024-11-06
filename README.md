@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bgiangiordano
 - 👀 I’m interested in Automating my life
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python, SQL, AI
 - 💞️ I’m looking to collaborate on Python and automations
 - 📫 How to reach me bgiangiordano@gmail.com
 - ⚡ Fun fact: Marketer at my full-time, so interested to become a MarTech kinda person
